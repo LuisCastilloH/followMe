@@ -1,0 +1,5 @@
+# ignore the build folder
+build/
+
+# ignore .in files
+*.in
